@@ -1,0 +1,32 @@
+{
+  "author": "gbezyuk",
+  "name": "aion",
+  "description": "The React Datepicker component named after the greek god of time",
+  "version": "0.0.1",
+  "license": "GNU",
+  "homepage": "https://github.com/gbezyuk/aion",
+  "main": "dist/aion.min.js",
+  "keywords": [
+    "react",
+    "datepicker",
+    "calendar",
+    "date",
+    "react-component",
+    "aion"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gbezyuk/aion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gbezyuk/aion/issues"
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+  },
+  "dependencies": {
+  },
+  "scripts": {
+  },
+}
