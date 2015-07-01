@@ -21,12 +21,10 @@
   "bugs": {
     "url": "https://github.com/gbezyuk/aion/issues"
   },
-  "devDependencies": {
-  },
-  "peerDependencies": {
-  },
+  "devDependencies": {},
+  "peerDependencies": {},
   "dependencies": {
+    "react": "^0.13.3"
   },
-  "scripts": {
-  },
+  "scripts": {}
 }

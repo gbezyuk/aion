@@ -18,9 +18,10 @@
     "react",
     "datepicker",
     "calendar",
-    "aion"   
+    "aion"
   ],
   "dependencies": {
+    "react": "~0.13.3"
   },
   "ignore": [
     "bower_components",
